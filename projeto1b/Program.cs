@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace projeto1b
 {
-    class Program
+    class alunos
     {
         static void Main(string[] args)
         {
